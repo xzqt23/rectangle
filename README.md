@@ -1,1 +1,1 @@
-# triangle
+# rectangle
